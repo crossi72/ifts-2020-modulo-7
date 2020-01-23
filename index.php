@@ -12,6 +12,7 @@
         testFunction();
         $altraVariabile = 0;
     ?>
+    
 </body>
 </html>
 
