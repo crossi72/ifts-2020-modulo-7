@@ -8,9 +8,7 @@
 </head>
 <body>
     <?php
-        $variabileEsterna = 0;
         testFunction();
-        $altraVariabile = 0;
     ?>
     
 </body>
