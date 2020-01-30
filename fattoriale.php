@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
+    questo è il fattoriale di 4: 
     <?php echo fattoriale(4); ?>
 </body>
 </html>
